@@ -1,4 +1,4 @@
-# BESOQ Games
+# MuBa Games
 
 CodeCanyon-dan əldə edilmiş Unity oyunlarının Play Store üçün uyğunlaşdırılmış kolleksiyası.
 
@@ -8,7 +8,7 @@ CodeCanyon-dan əldə edilmiş Unity oyunlarının Play Store üçün uyğunlaş
 game/
 ├── .gitignore               # Unity və ümumi lazımsız faylları kənar tutur
 ├── README.md                # Bu fayl
-└── LastDrive/               # Oyun #1 — Car vs Cops (Unity 3D)
+└── LastDrive/               # Oyun #1 — LastDrive (Unity 3D)
     ├── Assets/
     ├── Packages/
     ├── ProjectSettings/
@@ -18,13 +18,20 @@ game/
 ## Oyunlar
 
 ### 1. LastDrive
-- **Mənbə:** CodeCanyon (CarVsCops v1.1)
-- **Şirkət:** BESOQ
+- **Developer:** MuBa Games
+- **Mənbə:** CodeCanyon (orijinal: CarVsCops v1.1)
+- **Package name:** `com.mubagames.lastdrive`
 - **Engine:** Unity 2019.4.30f1 LTS
 - **Render Pipeline:** Universal RP (URP) 7.6.0
 - **Platforma:** Android (Mobile)
 - **Oriyentasiya:** Portrait
 - **Reklam SDK:** AdMob + Unity Ads + GDPR razılığı
+
+#### AdMob konfiqurasiyası
+- **App ID:** `ca-app-pub-2121166615688784~8082114112`
+- **Banner:** `ca-app-pub-2121166615688784/6495597482`
+- **Interstitial:** `ca-app-pub-2121166615688784/3869434145`
+- **Rewarded:** `ca-app-pub-2121166615688784/3532872315`
 
 #### Əsas asılılıqlar (Packages/manifest.json)
 - `com.unity.ads` 3.7.5
@@ -37,11 +44,12 @@ game/
 
 ## Növbəti addımlar
 
-- [ ] Package name dəyişdir (məs: `com.besoq.lastdrive`)
-- [ ] AdMob App ID və Ad Unit ID-ləri öz hesabınla əvəzlə
-- [ ] Şirkət/məhsul adlarını yenilə
+- [x] Package name dəyişdirildi (`com.mubagames.lastdrive`)
+- [x] Şirkət adı yeniləndi (`MuBa Games`)
+- [x] AdMob App ID və Ad Unit ID-ləri quraşdırıldı
 - [ ] Splash screen və ikon dəyiş
 - [ ] Keystore yarat (release imza üçün)
+- [ ] AdMob ödəniş profili tamamla
 - [ ] Play Store metadata (screenshot, description) hazırla
 
 ## Lisenziya qeydi
