@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Credit Data
   m_EditorClassIdentifier: 
   _devLabelText: 'Developed by:'
-  _devText: SANSDEVS
+  _devText: MuBa Games
   _contactLabelText: 'Contact us:'
   _contactText: sansdevs@gmail.com
   _sfxLabelText: 'Sound Effect From:'

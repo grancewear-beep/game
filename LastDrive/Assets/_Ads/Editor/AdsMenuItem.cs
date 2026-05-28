@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class AdsMenuItem : MonoBehaviour
 {
-    [MenuItem("SansDev/Customize/Ads Data")]
+    [MenuItem("MuBaGames/Customize/Ads Data")]
     static void OpenMenu1()
     {
         string path = "Assets/_Ads/SO/Ads Data.asset";
@@ -11,7 +11,7 @@ public class AdsMenuItem : MonoBehaviour
         Selection.activeObject = data;
     }
 
-    [MenuItem("SansDev/Customize/Privacy Policy Link")]
+    [MenuItem("MuBaGames/Customize/Privacy Policy Link")]
     static void OpenMenu2()
     {
         string path = "Assets/_Ads/SO/Policy Data.asset";

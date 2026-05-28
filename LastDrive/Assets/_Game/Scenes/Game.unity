@@ -11181,7 +11181,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: SANSDEVS
+  m_text: MuBa Games
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0c96d695f13a97d44bd5494aff739235, type: 2}
   m_sharedMaterial: {fileID: -8977824699422080499, guid: 0c96d695f13a97d44bd5494aff739235,

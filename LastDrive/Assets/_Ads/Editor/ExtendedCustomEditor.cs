@@ -66,7 +66,7 @@ public class ExtendedCustomEditor : Editor
     {
         GUIStyle wm = new GUIStyle() { alignment = TextAnchor.MiddleCenter, fontStyle = FontStyle.BoldAndItalic, fontSize = 10 };
         wm.normal.textColor = Color.gray;
-        GUILayout.Label("Created by SansDev Team.", wm);
+        GUILayout.Label("Created by MuBa Games.", wm);
     }
 
     protected GUIStyle WhiteBackground()

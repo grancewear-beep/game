@@ -23,9 +23,9 @@ MonoBehaviour:
     _mask:
       serializedVersion: 2
       m_Bits: 256
-  _packageName: com.sansdevs.carvscops
+  _packageName: com.muba.lastdrive
   _devLabelText: 'Developed by:'
-  _devText: SANSDEVS
+  _devText: MuBa Games
   _contactLabelText: 'Contact us:'
   _contactText: sansdevs@gmail.com
   _sfxLabelText: 'Sound Effect From:'
