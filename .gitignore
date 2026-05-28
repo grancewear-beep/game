@@ -1,0 +1,117 @@
+# ============================================
+# Ümumi - lazımsız fayllar
+# ============================================
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Arxiv faylları (yüklənməməlidir!)
+*.rar
+*.zip
+*.7z
+*.tar
+*.gz
+
+# IDE / Editor
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# ============================================
+# Android Studio / Gradle
+# ============================================
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
+build/
+.gradle/
+local.properties
+.externalNativeBuild/
+.cxx/
+captures/
+release/
+debug/
+proguard/
+*.jks
+*.keystore
+google-services.json
+
+# ============================================
+# Unity
+# ============================================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+sysinfo.txt
+*.apk.meta
+*.aab.meta
+*.unitypackage.meta
+
+# ============================================
+# Construct 2/3
+# ============================================
+*.caproj.bak
+*.c3p.bak
+
+# ============================================
+# Cocos
+# ============================================
+library/
+local/
+temp/
+build/
+
+# ============================================
+# Node / HTML5
+# ============================================
+node_modules/
+dist/
+.npm
+.cache/
+package-lock.json.bak
+
+# ============================================
+# Böyük fayllar (Git LFS olmadan yüklənməsin)
+# ============================================
+*.psd
+*.ai
+*.fla
+*.mov
+*.mp4
+*.avi
+*.mkv
+*.wav
+*.aif
+*.aiff
+*.flac
+*.iso
+*.dmg
+*.exe
