@@ -20,7 +20,7 @@ game/
 ### 1. LastDrive
 - **Developer:** MuBa Games
 - **Mənbə:** CodeCanyon (orijinal: CarVsCops v1.1)
-- **Package name:** `com.mubagames.lastdrive`
+- **Package name:** `com.muba.lastdrive`
 - **Engine:** Unity 2019.4.30f1 LTS
 - **Render Pipeline:** Universal RP (URP) 7.6.0
 - **Platforma:** Android (Mobile)
@@ -44,7 +44,7 @@ game/
 
 ## Növbəti addımlar
 
-- [x] Package name dəyişdirildi (`com.mubagames.lastdrive`)
+- [x] Package name dəyişdirildi (`com.muba.lastdrive`)
 - [x] Şirkət adı yeniləndi (`MuBa Games`)
 - [x] AdMob App ID və Ad Unit ID-ləri quraşdırıldı
 - [ ] Splash screen və ikon dəyiş
