@@ -1,0 +1,109 @@
+# =====================================================
+# Ümumi - lazımsız fayllar
+# =====================================================
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*.bak
+desktop.ini
+
+# Arxiv faylları (yüklənməməlidir!)
+*.rar
+*.zip
+*.7z
+*.tar
+*.gz
+LastDrive_extracted/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# =====================================================
+# Unity-yə xas qovluqlar (tracking-dən kənar)
+# =====================================================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+[Uu]ser[Ss]ettings/
+
+# =====================================================
+# Unity-də avtomatik yaradılan fayllar
+# =====================================================
+# Visual Studio / Rider üçün
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity asset/meta avtomatik
+sysinfo.txt
+
+# =====================================================
+# Build output (Android/iOS)
+# =====================================================
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Android-a xas
+*.jks
+*.keystore
+google-services.json
+local.properties
+
+# =====================================================
+# Crashlytics generated file (assemble apple)
+# =====================================================
+crashlytics-build.properties
+
+# =====================================================
+# Packed Addressables
+# =====================================================
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# =====================================================
+# Asset meta data (.meta) — bunları SAXLAYIRIQ Unity üçün
+# =====================================================
+# (heç nə)
+
+# =====================================================
+# Node / HTML5 (gələcək oyunlar üçün)
+# =====================================================
+node_modules/
+dist/
+.npm
+.cache/
+package-lock.json.bak
+
+# =====================================================
+# Çox böyük media (ehtiyac olarsa Git LFS istifadə edin)
+# =====================================================
+# *.psd
+# *.ai
+# *.fla
+# *.mov
+# *.mp4
+# *.avi
